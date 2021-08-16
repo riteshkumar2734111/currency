@@ -1,0 +1,12 @@
+head{
+   border: 2px solid bisque;
+}
+.col-md-8{
+   border: 2px solid black;
+   width: 600px;
+   text-align: center;
+   margin-left: 400px;
+   margin-bottom: 100px;
+   padding-bottom: 50px;
+   background-color: burlywood;
+}
